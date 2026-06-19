@@ -1,0 +1,10 @@
+{
+    "name": "superfx",
+    "description": "Special effects for MakeCode Arcade",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.ts"
+    ]
+}
